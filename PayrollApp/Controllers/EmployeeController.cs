@@ -163,5 +163,57 @@ namespace PayrollApp.Controllers
             return View();
 
         }
+        [HttpGet]
+        public IActionResult Detail(int ID)
+        {
+            var employee = _employeeService.GetByID(ID);
+            if (employee == null)
+            {
+                return NotFound();
+            }
+            EmployeeDetailViewModel model = new EmployeeDetailViewModel()
+            {
+                ID = employee.ID,
+                EmployeeNo = employee.EmployeeNo,
+                FullName = employee.FullName,
+                Gender = employee.Gender,
+                DOB = employee.DOB,
+                DateJoined = employee.DateJoined,
+                Designation = employee.Designation,
+                SSN = employee.SSN,
+                PhoneNo = employee.PhoneNo,
+                Email = employee.Email,
+                PaymentMethod = employee.PaymentMethod,
+                StudentLoan = employee.StudentLoan,
+                Address = employee.Address,
+                City = employee.City,
+                ImageUrl = employee.ImageUrl,
+                Zipcode = employee.Zipcode,
+            };
+            return View(model);
+        }
+        [HttpGet]
+        public IActionResult Delete(int ID)
+        {
+            var employee = _employeeService.GetByID(ID);
+            if (employee == null)
+            {
+                return NotFound();
+            }
+            var model = new EmployeeDeleteViewModel()
+            {
+                ID = employee.ID,
+                FullName = employee.FullName
+            };
+            return View(model);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(EmployeeDeleteViewModel model)
+        {
+            await _employeeService.Delete(model.ID);
+            return RedirectToAction(nameof(Index));
+        }
     }
 }

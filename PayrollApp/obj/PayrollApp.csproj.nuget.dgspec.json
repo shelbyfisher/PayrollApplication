@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\PayrollApp\\PayrollApp.csproj": {}
+    "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/PayrollApp/PayrollApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Entity\\Payroll.Entity.csproj": {
+    "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Entity/Payroll.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Entity\\Payroll.Entity.csproj",
+        "projectUniqueName": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Entity/Payroll.Entity.csproj",
         "projectName": "Payroll.Entity",
-        "projectPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Entity\\Payroll.Entity.csproj",
-        "packagesPath": "C:\\Users\\19415\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Entity\\obj\\",
+        "projectPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Entity/Payroll.Entity.csproj",
+        "packagesPath": "/Users/sfisher/.nuget/packages/",
+        "outputPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Entity/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\19415\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/sfisher/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,40 +52,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Persistence\\Payroll.Persistence.csproj": {
+    "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Persistence/Payroll.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Persistence\\Payroll.Persistence.csproj",
+        "projectUniqueName": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Persistence/Payroll.Persistence.csproj",
         "projectName": "Payroll.Persistence",
-        "projectPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Persistence\\Payroll.Persistence.csproj",
-        "packagesPath": "C:\\Users\\19415\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Persistence\\obj\\",
+        "projectPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Persistence/Payroll.Persistence.csproj",
+        "packagesPath": "/Users/sfisher/.nuget/packages/",
+        "outputPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Persistence/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\19415\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/sfisher/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Entity\\Payroll.Entity.csproj": {
-                "projectPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Entity\\Payroll.Entity.csproj"
+              "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Entity/Payroll.Entity.csproj": {
+                "projectPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Entity/Payroll.Entity.csproj"
               }
             }
           }
@@ -136,43 +124,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Services\\Payroll.Services.csproj": {
+    "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Services/Payroll.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Services\\Payroll.Services.csproj",
+        "projectUniqueName": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Services/Payroll.Services.csproj",
         "projectName": "Payroll.Services",
-        "projectPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Services\\Payroll.Services.csproj",
-        "packagesPath": "C:\\Users\\19415\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Services\\obj\\",
+        "projectPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Services/Payroll.Services.csproj",
+        "packagesPath": "/Users/sfisher/.nuget/packages/",
+        "outputPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Services/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\19415\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/sfisher/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Entity\\Payroll.Entity.csproj": {
-                "projectPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Entity\\Payroll.Entity.csproj"
+              "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Entity/Payroll.Entity.csproj": {
+                "projectPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Entity/Payroll.Entity.csproj"
               },
-              "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Persistence\\Payroll.Persistence.csproj": {
-                "projectPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Persistence\\Payroll.Persistence.csproj"
+              "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Persistence/Payroll.Persistence.csproj": {
+                "projectPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Persistence/Payroll.Persistence.csproj"
               }
             }
           }
@@ -201,43 +183,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\PayrollApp\\PayrollApp.csproj": {
+    "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/PayrollApp/PayrollApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\PayrollApp\\PayrollApp.csproj",
+        "projectUniqueName": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/PayrollApp/PayrollApp.csproj",
         "projectName": "PayrollApp",
-        "projectPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\PayrollApp\\PayrollApp.csproj",
-        "packagesPath": "C:\\Users\\19415\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\PayrollApp\\obj\\",
+        "projectPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/PayrollApp/PayrollApp.csproj",
+        "packagesPath": "/Users/sfisher/.nuget/packages/",
+        "outputPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/PayrollApp/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\19415\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/sfisher/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Entity\\Payroll.Entity.csproj": {
-                "projectPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Entity\\Payroll.Entity.csproj"
+              "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Entity/Payroll.Entity.csproj": {
+                "projectPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Entity/Payroll.Entity.csproj"
               },
-              "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Services\\Payroll.Services.csproj": {
-                "projectPath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Services\\Payroll.Services.csproj"
+              "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Services/Payroll.Services.csproj": {
+                "projectPath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Services/Payroll.Services.csproj"
               }
             }
           }
@@ -256,10 +232,6 @@
               "target": "Package",
               "version": "[3.1.11, )"
             },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.1.11, )"
-            },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[3.1.11, )"
@@ -271,6 +243,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.1.11, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             }
           },
           "imports": [
@@ -291,7 +267,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

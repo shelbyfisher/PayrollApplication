@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IokidKdCQW/X1F9Aq03ISitPxx76sCBjh1EwFaMrhTu8L5e/WUZvUs1eSWZqTLyPrVWYVPHt80imPtbboRJolg==",
+  "dgSpecHash": "1Pw5dKQnqytE2sPLD292G+EXOGLwwGgNujXkamWjxNvPLVcm1AvJRGrqdUnhWcJFSEkj0slnfLThann7nWFVZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\19415\\Desktop\\Shelbyc#\\PayrollApplication\\Payroll.Entity\\Payroll.Entity.csproj",
+  "projectFilePath": "/Users/sfisher/Desktop/c#/Projects/PayrollApplication/Payroll.Entity/Payroll.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

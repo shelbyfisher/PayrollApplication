@@ -61,6 +61,7 @@ namespace Payroll.Persistence.Migrations
                     ImageUrl = table.Column<string>(nullable: true),
                     DOB = table.Column<DateTime>(nullable: false),
                     DateJoined = table.Column<DateTime>(nullable: false),
+                    PhoneNo = table.Column<string>(nullable: true),
                     Designation = table.Column<string>(nullable: true),
                     Email = table.Column<string>(nullable: true),
                     SSN = table.Column<string>(maxLength: 50, nullable: false),

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6F1BC183-9807-43D1-BDBB-AF3612357F2C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/EmployeeDeleteViewModel.cs">
+    <Files>
+      <File FileName="../Payroll.Entity/Employee.cs" Line="44" Column="1" />
+      <File FileName="Models/EmployeeDetailViewModel.cs" Line="29" Column="1" />
+      <File FileName="Controllers/EmployeeController.cs" Line="205" Column="27" />
+      <File FileName="Models/EmployeeDeleteViewModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PayrollApp" expanded="True">
+            <Node name="Payroll.Entity" expanded="True" />
+            <Node name="PayrollApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="EmployeeDeleteViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PayrollApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

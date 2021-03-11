@@ -10,8 +10,8 @@ using PayrollApp.Persistence;
 namespace Payroll.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20210308201231_UpdatedEmployee")]
-    partial class UpdatedEmployee
+    [Migration("20210311011223_Initial Migration")]
+    partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
